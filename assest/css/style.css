@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#cabecalho{
+    position: fixed;
+    height: 300px;
+    width: 100%;
+    background-color: #332c50;
+    color: rgb(245, 245, 245);
+    text-align: center;
+    
+}
+img{
+     
+    border-radius: 100%;
+    border-bottom: 300%;
+    max-width: 120px;
+    border: 1px solid black
+   
+    
+    
+}body{
+background-color:rgb(252, 248, 255)
+}
+me {
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+  padding: 2rem;
+}
+
+#cabecalho ul{
+    position: relative;
+    top: 5%;
+}
+#cabecalho ul li{
+    display: inline;
+}
+#principal{
+    display: inline-block;
+    padding: 10px;
+    padding-top: 330px;;
+}
+hr{
+    width:300%
+}
